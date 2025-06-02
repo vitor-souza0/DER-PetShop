@@ -1,1 +1,2 @@
-# DER-PetShop
+# DER PetShop
+DerPetshop.PNG
